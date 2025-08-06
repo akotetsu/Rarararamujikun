@@ -1,5 +1,10 @@
 # ららららむじくん (Ramujikun)
 
+![Gxg7P_cacAAOHex (1)](https://github.com/user-attachments/assets/bac6cf21-dd6e-4c96-98ce-080e2428b439)
+![Gxg7QA7bsAAO6lK (1)](https://github.com/user-attachments/assets/7c6e0687-0d48-4123-bc9c-edd2948f57a4)
+![Gxg7QA8bIAAo9Vd (1)](https://github.com/user-attachments/assets/29d6697a-9805-462a-8393-65cd3a3d82b3)
+
+
 ## 概要
 「ららららむじくん」は、日々の気分を記録して、心の変化を可視化するiOSアプリです。5段階の気分レベルで感情を記録し、カレンダーで月ごとの統計を簡単に確認できます。
 
